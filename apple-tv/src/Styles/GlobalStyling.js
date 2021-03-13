@@ -15,7 +15,7 @@ body {
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     color: #1d1d1f;
     font-style: normal;
-    background-color: #282828;
+    background-color:#181818;
 }
 :root {
     --tile-bg: #f9f9f9;
